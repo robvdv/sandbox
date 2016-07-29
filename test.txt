@@ -3,9 +3,9 @@ test
 test 2
 
 test 3
-<<<<<<< HEAD
+
 
 Added 4
 55555
-=======
->>>>>>> parent of 9bddcee... Revert "removed test"
+
+
